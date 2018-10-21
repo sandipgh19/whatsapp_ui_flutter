@@ -1,8 +1,6 @@
-
-class CallItem{
-
-  String name;
+class CallItem {
+  String user;
   String time;
 
-  CallItem(this.name, this.time);
+  CallItem(this.user, this.time);
 }
